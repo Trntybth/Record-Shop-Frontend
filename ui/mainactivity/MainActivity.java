@@ -1,4 +1,4 @@
-package com.northcoders.record_shop_application;
+package com.northcoders.record_shop_application.ui.mainactivity;
 
 import androidx.appcompat.app.AppCompatActivity;
 
