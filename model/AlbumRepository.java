@@ -2,6 +2,7 @@ package com.northcoders.record_shop_application.model;
 
 import android.app.Application;
 
+import androidx.databinding.BaseObservable;
 import androidx.lifecycle.MutableLiveData;
 
 import com.northcoders.record_shop_application.service.AlbumApiService;
